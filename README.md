@@ -1,5 +1,3 @@
-Creating a detailed readme file for your GitHub repository can be very helpful for users and contributors to understand your project. Here's a point-by-point outline for your Health Care App's readme:
-
 # Health Care App
 
 <p align="center">
