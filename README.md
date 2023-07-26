@@ -69,7 +69,7 @@ git clone https://github.com/your-username/health-care-app.git
 1. Launch the app and click on the "Doctor Login" button.
 2. Enter your doctor's credentials (username and password).
 3. Once logged in, you'll have access to the doctor's dashboard with various features.
-4. <p align="center">
+<p align="center">
 <img src="https://github.com/Salai-Harish/App-images/blob/main/Screenshot_2023-07-26-12-41-18-81_5d833e56a684b39e1dbcb31d6b4026ad.jpg" width=200/>
 </p>
 
