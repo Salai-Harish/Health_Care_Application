@@ -2,7 +2,7 @@ Creating a detailed readme file for your GitHub repository can be very helpful f
 
 # Health Care App
 
-![App Logo](https://drive.google.com/file/d/uc?expert=view&id=sharing1Hy2VYMkpTrTBFy4Fds1MNleFpnMzyFmM)
+![App Logo](https://drive.google.com/uc?id=sharing1Hy2VYMkpTrTBFy4Fds1MNleFpnMzyFmM)
 
 ## Table of Contents
 - [Introduction](#introduction)
