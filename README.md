@@ -2,7 +2,9 @@ Creating a detailed readme file for your GitHub repository can be very helpful f
 
 # Health Care App
 
+<p align="center">
 <img src="https://github.com/Salai-Harish/App-images/blob/main/Screenshot_2023-07-26-12-42-07-32_5d833e56a684b39e1dbcb31d6b4026ad.png" width=200/>
+</p>
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -69,15 +71,14 @@ git clone https://github.com/your-username/health-care-app.git
 1. Launch the app and click on the "Doctor Login" button.
 2. Enter your doctor's credentials (username and password).
 3. Once logged in, you'll have access to the doctor's dashboard with various features.
-<p align="center">
 <img src="https://github.com/Salai-Harish/App-images/blob/main/Screenshot_2023-07-26-12-41-18-81_5d833e56a684b39e1dbcb31d6b4026ad.jpg" width=200/>
-</p>
 
 ### Patient Login
 
 1. Open the app and tap on the "Patient Login" option.
 2. Provide your patient credentials to log in.
 3. After successful login, you'll be directed to the patient's dashboard.
+<img src="https://github.com/Salai-Harish/App-images/blob/main/Screenshot_2023-07-26-12-28-11-18_5d833e56a684b39e1dbcb31d6b4026ad.jpg" width=200/>
 
 ### Selecting Doctors
 
@@ -85,12 +86,13 @@ git clone https://github.com/your-username/health-care-app.git
 2. Filter doctors based on specialization, location, and availability.
 3. View doctor profiles and read reviews from other patients.
 4. Select a doctor and book an appointment based on their availability.
+<img src="https://github.com/Salai-Harish/App-images/blob/main/Screenshot_2023-07-26-12-27-23-14_5d833e56a684b39e1dbcb31d6b4026ad.jpg" width=200/>
 
 ## Additional Features
 
-1. Booking solts wo\ith doctor for appointment.
-2. My calander feature for doctor.
-
+1. Booking slots with doctor for appointment.
+2. My calendar feature for doctors.
+<img src="https://github.com/Salai-Harish/App-images/blob/main/Screenshot_2023-07-26-12-28-17-19_5d833e56a684b39e1dbcb31d6b4026ad.jpg" width=200/>
 
 ## License
 
