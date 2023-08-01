@@ -51,12 +51,12 @@
             android:layout_width="300dp"
             android:layout_height="55dp">
 
-        <com.google.android.material.textfield.TextInputEditText
-            android:id="@+id/activity_mentor_chat_message_edit_text"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:inputType="textMultiLine"
-            android:hint="hint" />
+            <com.google.android.material.textfield.TextInputEditText
+                android:id="@+id/activity_mentor_chat_message_edit_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Type here"
+                android:inputType="textMultiLine" />
         </com.google.android.material.textfield.TextInputLayout>
 
         <!-- ADD MESSAGE BUTTON -->

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="default_title_size">16sp</dimen>
+    <dimen name="default_margin">16dp</dimen>
+    <!-- You can adjust the size value (e.g., 16sp) as per your requirement -->
+</resources>

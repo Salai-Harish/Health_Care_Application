@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts">
+        <item>@font/font1</item>
+        <item>@font/font2</item>
+    </array>
+    <string-array name="planets_array">
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Venus</item>
+        <!-- Add more items as needed -->
+    </string-array>
+    <string-array name="specialite_spinner">
+        <item>Speciality 1</item>
+        <item>Speciality 2</item>
+        <item>Speciality 3</item>
+        <!-- Add more items as needed -->
+    </string-array>
+    <string-array name="planets_array2">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <!-- Add more items as needed -->
+    </string-array>
+    <string-array name="blood_spinner">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+        <!-- Add more items as needed -->
+    </string-array>
+</resources>

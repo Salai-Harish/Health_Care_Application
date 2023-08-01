@@ -22,7 +22,7 @@
             android:layout_marginStart="0dp"
             android:layout_marginLeft="0dp"
             android:layout_marginTop="0dp"
-            android:background="@color/colorAccent"
+            android:background="#5E35B1"
             android:orientation="horizontal">
 
             <TextView
@@ -38,12 +38,12 @@
 
             <TextView
                 android:id="@+id/appointement_date"
-                android:layout_width="match_parent"
+                android:layout_width="136dp"
                 android:layout_height="wrap_content"
+                android:layout_gravity="center"
                 android:layout_margin="8dp"
                 android:layout_marginStart="10dp"
                 android:layout_marginLeft="10dp"
-                android:layout_gravity="center"
                 android:layout_weight="1"
                 android:text="23/06/20 at 9pm"
                 android:textColor="#fff" />
@@ -62,7 +62,7 @@
             android:layout_marginEnd="16dp"
             android:layout_marginRight="16dp"
             android:layout_marginBottom="13dp"
-            android:background="@drawable/button_success"
+            android:background="#E3E0EA"
             android:text="Accept"
             android:textSize="12sp" />
 

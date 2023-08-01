@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Other string resources may exist -->
+
+    <string name="button_title_mentor_chat_activity">Send Message</string>
+    <string name="hello_blank_fragment">Hello Blank Fragment</string>
+    <!-- Adjust the text "Send Message" as per your requirement -->
+    <array name="fiche_type">
+        <item>Option 1</item>
+        <item>Option 2</item>
+        <item>Option 3</item>
+        <!-- Add more items as needed -->
+    </array>
+</resources>

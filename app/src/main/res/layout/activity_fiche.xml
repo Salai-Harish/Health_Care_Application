@@ -5,45 +5,57 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:orientation="vertical"
     android:padding="16dp"
+    android:background="#F5F5F5"
     tools:context=".FicheActivity">
 
     <EditText
         android:id="@+id/fiche_maladie"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:hint="Medicine"
+        android:background="@drawable/rounded_edittext"
+        android:ems="10"
         android:inputType="text"
-        android:textColor="#22BE87"
-        android:textColorHint="#22BE87"
-        android:hint="Maladie" />
+        android:paddingLeft="20dp"
+        android:textColor="#000000"
+        android:textColorHint="#9E9E9E" />
 
     <EditText
         android:id="@+id/fiche_description"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:inputType="textMultiLine"
-        android:textColor="#22BE87"
-        android:textColorHint="#22BE87"
         android:hint="Description"
-        />
+        android:background="@drawable/rounded_edittext"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:paddingLeft="20dp"
+        android:textColor="#000000"
+        android:textColorHint="#9E9E9E" />
 
     <EditText
         android:id="@+id/fiche_traitement"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:background="@drawable/rounded_edittext"
+        android:ems="10"
+        android:hint="Treatment"
         android:inputType="textMultiLine"
-        android:textColor="#22BE87"
-        android:textColorHint="#22BE87"
-        android:hint="Traitement"
-        />
+        android:paddingLeft="20dp"
+        android:textColor="#000000"
+        android:textColorHint="#9E9E9E" />
 
     <TextView
-
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textColor="#22BE87"
-        android:text="Type de fiche"
         android:layout_marginTop="16dp"
-        android:textSize="16sp"/>
+        android:text="Type"
+        android:background="@drawable/rounded_edittext"
+        android:ems="10"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:paddingLeft="20dp"
+        android:textColor="#000000"
+        android:textColorHint="#9E9E9E" />
 
     <Spinner
         android:id="@+id/fiche_type_spinner"
@@ -51,21 +63,22 @@
         android:layout_height="wrap_content"
         android:padding="24dp"
         android:spinnerMode="dropdown"
-        android:textColor="#000000">
-    </Spinner>
+        android:textColor="#000000" />
 
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_weight="1"
         android:layout_height="0dp"
         android:gravity="center|bottom">
-    <Button
-        android:id="@+id/button_add_fiche"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:background="@drawable/button_green"
-        android:text="Ajouter" />
-    </LinearLayout>
 
+        <Button
+            android:id="@+id/button_add_fiche"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#5E35B1"
+            android:text="LOGIN"
+            android:textColor="#FFFFFF"
+            android:textSize="18sp" />
+    </LinearLayout>
 
 </LinearLayout>
