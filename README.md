@@ -1,10 +1,6 @@
 # Health Care App
 
 <p align="center">
-<img src="https://github.com/Salai-Harish/App-images/blob/main/Screenshot_2023-07-26-12-42-07-32_5d833e56a684b39e1dbcb31d6b4026ad.png" width=200/>
-</p>
-
-<p align="center">
     <img src="https://github.com/Salai-Harish/Health_Care_Application/blob/main/App-Images/Screenshot_2023-08-01-14-53-49-64_5d833e56a684b39e1dbcb31d6b4026ad%20(1).jpg" width=200 style="margin-right">
     <img src="https://github.com/Salai-Harish/Health_Care_Application/blob/main/App-Images/Screenshot_2023-08-01-14-54-05-69_5d833e56a684b39e1dbcb31d6b4026ad.jpg" width=200 style="margin-right">
     <img src="https://github.com/Salai-Harish/Health_Care_Application/blob/main/App-Images/Screenshot_2023-08-01-14-58-50-75_5d833e56a684b39e1dbcb31d6b4026ad.jpg" width=200 style="margin-right">
